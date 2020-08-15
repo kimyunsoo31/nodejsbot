@@ -6,6 +6,17 @@
   "scripts": {
     "r": "node index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimyunsoo31/nodejsbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimyunsoo31/nodejsbot/issues"
+  },
+  "homepage": "https://github.com/kimyunsoo31/nodejsbot#readme",
   "dependencies": {
     "discord.js": "^11.5.1"
   }
